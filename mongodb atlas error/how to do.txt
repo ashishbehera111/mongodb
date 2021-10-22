@@ -1,0 +1,7 @@
+--------when you get this type of error msg by mongodb 
+
+> go to mongodb atlas account 
+>then go to Network Acsess
+>then click on edit 
+> Access List Entry:0.0.0.0/0
+>click confirm
